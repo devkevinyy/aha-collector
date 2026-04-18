@@ -97,7 +97,7 @@ chrome.storage.local.get('feishuConfig', console.log)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/aha-collector.git
+git clone https://github.com/devkevinyy/aha-collector.git
 cd aha-collector
 
 # Install dependencies
